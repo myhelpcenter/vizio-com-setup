@@ -1,0 +1,18 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for VIZIO Smart TV setup guide #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <!-- Search engine verification -->
+    <meta name="google-site-verification" content="nSK8unydjKIIQiskWcyalOLyFzCb_zTmDDGyCsOAJHY" />
+
+    <!-- SEO meta -->
+    <meta name="description" content="Set up your VIZIO Smart TV at vizio.com/setup. Quick guide to connect Wi-Fi, enter setup code, link your VIZIO account, and start streaming with SmartCast." />
+    <meta name="keywords" content="vizio.com/setup, VIZIO Smart TV setup, VIZIO setup code, VIZIO SmartCast activation, link VIZIO account, VIZIO TV Wi-Fi, WatchFree+" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Title -->
+    <title>How to Set Up Your VIZIO Smart TV – vizio.com/setup Guide</title>
+
+    {{ super() }}
+{% endblock %}
