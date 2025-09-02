@@ -6,7 +6,7 @@ Get Started with SmartCast, Streaming, and Online Account Management
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.vizio.com/setup" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://q82.net/?36zGdn4a0hTkLSVCehZEFmV4sgzN5yfaFZEBwM2RocdwAx9JLamT9KenWUPPRJ78m" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Start My VIZIO Setup
         </a>
     </div>
@@ -92,10 +92,10 @@ Completing your Smart TV setup at `vizio.com/setup <https://www.vizio.com/setup>
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.vizio.com/setup" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://q82.net/?36zGdn4a0hTkLSVCehZEFmV4sgzN5yfaFZEBwM2RocdwAx9JLamT9KenWUPPRJ78m" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Start Setup
         </a>
-        <a href="https://www.vizio.com/en/vizio-account/link-your-tv" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://q82.net/?36zGdn4a0hTkLSVCehZEFmV4sgzN5yfaFZEBwM2RocdwAx9JLamT9KenWUPPRJ78m" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Link Your TV
         </a>
         <a href="https://support.vizio.com" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
